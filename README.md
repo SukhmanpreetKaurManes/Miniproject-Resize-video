@@ -1,2 +1,2 @@
-# Miniproject--26-Resize-video
+# Miniproject--Resize-video
 This code resizes a video 
